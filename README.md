@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rienker
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning html/css and other stuff
+- 📫 rienkyss@gmail.com
